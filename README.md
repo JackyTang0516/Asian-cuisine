@@ -11,10 +11,10 @@ Additionally, the Recommendation Microservice is intended to appeal to users who
 <img width="798" alt="Name" src="https://user-images.githubusercontent.com/111934442/233254693-322e8487-efe2-4fba-99dc-cb95b8924167.png">
 
 
-<img width="452" alt="Architecture" src="https://user-images.githubusercontent.com/111934442/233255028-7f3f69c4-692f-447d-893d-7b4545a3d144.png">
+<img width="798" alt="Architecture" src="https://user-images.githubusercontent.com/111934442/233255028-7f3f69c4-692f-447d-893d-7b4545a3d144.png">
 
 
-<img width="500" alt="Homepage" src="https://user-images.githubusercontent.com/111934442/233255516-ef7ed5ee-e301-4cf8-9a32-72adbfaf5602.png">
+<img width="798" alt="Homepage" src="https://user-images.githubusercontent.com/111934442/233255516-ef7ed5ee-e301-4cf8-9a32-72adbfaf5602.png">
 
 
-<img width="500" alt="Detailpage" src="https://user-images.githubusercontent.com/111934442/233255524-5ce8c77a-5d85-4c67-be58-9341ff721984.png">
+<img width="798" alt="Detailpage" src="https://user-images.githubusercontent.com/111934442/233255524-5ce8c77a-5d85-4c67-be58-9341ff721984.png">
