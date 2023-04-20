@@ -19,4 +19,3 @@ Additionally, the Recommendation Microservice is intended to appeal to users who
 
 <img width="798" alt="Detailpage" src="https://user-images.githubusercontent.com/111934442/233255524-5ce8c77a-5d85-4c67-be58-9341ff721984.png">
 
-[Uploading Group 4.pptx…]()
