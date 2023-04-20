@@ -14,7 +14,7 @@ Additionally, the Recommendation Microservice is intended to appeal to users who
 <img width="452" alt="Architecture" src="https://user-images.githubusercontent.com/111934442/233255028-7f3f69c4-692f-447d-893d-7b4545a3d144.png">
 
 
-<img width="452" alt="Homepage" src="https://user-images.githubusercontent.com/111934442/233253331-5d6cd189-f4c6-49d1-8250-2afd7d66ee63.png">
+<img width="500" alt="Homepage" src="https://user-images.githubusercontent.com/111934442/233255516-ef7ed5ee-e301-4cf8-9a32-72adbfaf5602.png">
 
 
-<img width="452" alt="Detailpage" src="https://user-images.githubusercontent.com/111934442/233253339-7a535852-04fd-4223-82a9-33989c8ea56d.png">
+<img width="500" alt="Detailpage" src="https://user-images.githubusercontent.com/111934442/233255524-5ce8c77a-5d85-4c67-be58-9341ff721984.png">
