@@ -1,4 +1,4 @@
-# Asian-Cuisine
+# Asian Cuisine App
 a)Idea: The microservices app "Asian Cuisine" is a social media application that handles different functionalities of the system, allowing users to share different Asian food in the form of pictures and posts.
 
 b)Purpose: The purpose of this app is to create a social media platform where users can share their favorite Asian food, add photos, get Asian food information, and interact with other users. The app also provides users with a smooth and personalized experience.
