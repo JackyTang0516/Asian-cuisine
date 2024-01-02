@@ -14,8 +14,6 @@ The intended users of the app are  Asian food enthusiasts who enjoy sharing and 
 Additionally, the Recommendation Microservice is intended to appeal to users who are looking for customized Asian food suggestions based on their interests and previous activity.
 
 
-<img width="798" alt="Name" src="https://user-images.githubusercontent.com/111934442/233254693-322e8487-efe2-4fba-99dc-cb95b8924167.png">
-
 
 <img width="798" alt="Architecture" src="https://user-images.githubusercontent.com/111934442/233255028-7f3f69c4-692f-447d-893d-7b4545a3d144.png">
 
